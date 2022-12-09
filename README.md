@@ -12,6 +12,10 @@ Anggota kelompok:
 
 **Soal Shift Modul 5 - Firewall**
 
-Adapun untuk topologi yang harus dibuat adalah sebagai berikut
+Adapun untuk topologi jaringan yang harus dibuat adalah sebagai berikut
 
 ![topo_soal](topologi_soal.jpg)
+
+Berikut adalah hasil topologi yang kami buat beserta pembagian subnetnya
+
+![topo](topo.png)
