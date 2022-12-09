@@ -33,3 +33,8 @@ Berikut adalah perhitungan untuk pembagian IPnya:
 | A4 | 2 | 2 | /30 | 255.255.255.252 | 10.43.7.144 | 10.43.7.145 - 10.43.7.146 | 10.43.7.147 |
 | A5 | 2 | 2 | /30 | 255.255.255.252 | 10.43.7.148 | 10.43.7.149 - 10.43.7.150 | 10.43.7.151 |
 | Total | 1231 |  | /21 |  |  |  |  |
+
+
+## Kendala
+
+Kami tidak dapat menyelesaikan modul 5 ini
