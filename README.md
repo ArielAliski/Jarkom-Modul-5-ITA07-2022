@@ -11,3 +11,7 @@ Anggota kelompok:
 | Anak Agung Bintang Krisnadewi     | `5027201060` |
 
 **Soal Shift Modul 5 - Firewall**
+
+Adapun untuk topologi yang harus dibuat adalah sebagai berikut
+
+![topo_soal](topologi_soal.png)
