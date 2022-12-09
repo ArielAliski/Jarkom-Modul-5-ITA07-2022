@@ -14,4 +14,4 @@ Anggota kelompok:
 
 Adapun untuk topologi yang harus dibuat adalah sebagai berikut
 
-![topo_soal](topologi_soal.png)
+![topo_soal](topologi_soal.jpg)
